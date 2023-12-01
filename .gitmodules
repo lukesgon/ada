@@ -1,3 +1,8 @@
 [submodule "ada-turma-1094-POO-ts"]
 	path = ada-turma-1094-POO-ts
 	url = https://github.com/Dev4ster/ada-turma-1094-POO-ts
+
+[submodule "logica-programacao-js-1094"]
+	path = logica-programacao-js-1094
+	url = https://github.com/Mateus-Paixao-Aulas/logica-programacao-js-1094.git
+
